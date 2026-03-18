@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael Goulart 👋</h1>
 
 <p align="center">
-  <b>Engenheiro de Dados Pleno • Desenvolvedor Full Stack • Apaixonado por dados e tecnologia</b>
+  <b>Engenheiro de Dados Pleno • E de vez em quando atuo como Desenvolvedor Full Stack • Apaixonado por dados e tecnologia</b>
 </p>
 
 <p align="center">
@@ -13,9 +13,10 @@
 ## 🚀 Sobre mim
 
 - 🏢 Atuo como **Engenheiro de Dados Pleno**, desenvolvendo pipelines, modelagem e integração de dados
+- 🗃️ Criação de **consultas SQL** para diferentes **ERPs**, otimizando processos e integrações
 - 💻 Também desenvolvo **sistemas Full Stack**, do banco de dados à interface
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** — PUC Minas
-- 📊 Pós-graduando em **Big Data** — UNA
+- 🎓 **Análise e Desenvolvimento de Sistemas** — PUC Minas
+- 🎓 **Big Data** — UNA
 - 🌎 Baseado em **Minas Gerais, Brasil**
 
 ---
@@ -43,20 +44,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goulart2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart2&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Goulart2&theme=tokyonight&hide_border=false" />
+### 🧩 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
+
 
 <p align="center">
   <i>"Dados bem tratados são a base de qualquer boa decisão."</i>
