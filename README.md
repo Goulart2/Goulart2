@@ -1,18 +1,18 @@
 <h1 align="center">Olá, eu sou o Rafael Goulart 👋</h1>
 
 <p align="center">
-  <b>Engenheiro de Dados Pleno • E de vez em quando atuo como Desenvolvedor Full Stack • Apaixonado por dados e tecnologia</b>
+  <b>Analista de Dados Pleno • E de vez em quando atuo como Desenvolvedor Full Stack • Apaixonado por dados e tecnologia</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D9DE0&center=true&vCenter=true&width=500&lines=Engenheiro+de+Dados+Pleno;Desenvolvedor+Full+Stack;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D9DE0&center=true&vCenter=true&width=500&lines=Analista+de+Dados+Pleno;Desenvolvedor+Full+Stack;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🏢 Atuo como **Engenheiro de Dados Pleno**, desenvolvendo pipelines, modelagem e integração de dados
+- 🏢 Atuo como **Analista de Dados Pleno**, desenvolvendo pipelines, modelagem e integração de dados
 - 🗃️ Criação de **consultas SQL** para diferentes **ERPs**, otimizando processos e integrações
 - 💻 Também desenvolvo **sistemas Full Stack**, do banco de dados à interface
 - 🎓 **Análise e Desenvolvimento de Sistemas** — PUC Minas
