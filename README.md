@@ -17,7 +17,6 @@
 - 💻 Também desenvolvo **sistemas Full Stack**, do banco de dados à interface
 - 🎓 **Análise e Desenvolvimento de Sistemas** — PUC Minas
 - 🎓 **Big Data** — UNA
-- 🌎 Baseado em **Minas Gerais, Brasil**
 
 ---
 
